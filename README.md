@@ -1,2 +1,2 @@
 # bean-machine
-class project
+coffee menu
